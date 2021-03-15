@@ -1,9 +1,3 @@
-# COMP532 Assignment 1
-# Phoebe Edwards (200786023)
-# Matt Fishwick (201531430)
-
-# Problem 1
-
 import numpy as np
 import matplotlib.pyplot as plt 
 
